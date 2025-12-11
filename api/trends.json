@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T19:16:46.895884+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2025-12-11T20:37:58.714456+08:00",
+  "total_titles_processed": 1941,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时16分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时37分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -148,6 +148,17 @@
           "time_info": "00时24分"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时37分]"
+        },
+        {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
           "url": "https://flash.jin10.com/detail/20251211055914043800",
           "source": "金十数据",
@@ -158,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时15分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时16分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -288,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时37分]"
         },
         {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
@@ -443,17 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：特朗普政府正在考虑进行更多与委内瑞拉和伊朗相关油轮的任务。",
@@ -612,8 +613,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时18分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时18分 ~ 20时37分]"
         },
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -913,6 +914,18 @@
           "time_info": "[06时18分 ~ 07时15分]"
         },
         {
+          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
+          "url": "https://www.zhihu.com/question/1980552349165564560",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时37分]"
+        },
+        {
           "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
           "url": "https://flash.jin10.com/detail/20251211005231907800",
           "source": "金十数据",
@@ -944,17 +957,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
-          "url": "https://www.zhihu.com/question/1980552349165564560",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "消息人士：若谷歌不做出更多让步，将面临欧盟罚款",
@@ -1108,8 +1110,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时24分 ~ 19时16分]"
+          "appearance_count": 23,
+          "time_info": "[00时24分 ~ 20时37分]"
         }
       ]
     }
