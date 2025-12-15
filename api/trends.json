@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T16:27:42.062672+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2025-12-15T17:29:20.371201+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -19,6 +19,19 @@
           "time_info": "[00时19分 ~ 07时15分]"
         },
         {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时27分 ~ 17时29分]"
+        },
+        {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
           "url": "https://www.cls.cn/detail/2229153",
           "source": "财联社热门",
@@ -27,19 +40,6 @@
             4,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时27分 ~ 16时27分]"
-        },
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -119,6 +119,17 @@
           "time_info": "[05时15分 ~ 07时15分]"
         },
         {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
           "url": "https://flash.jin10.com/detail/20251214211648647800",
           "source": "金十数据",
@@ -140,8 +151,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时30分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时30分 ~ 17时29分]"
         },
         {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
@@ -162,15 +173,15 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时29分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -193,11 +204,12 @@
             10,
             9,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时20分 ~ 16时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 17时29分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -219,11 +231,34 @@
           "ranks": [
             12,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时30分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时30分 ~ 17时29分]"
+        },
+        {
+          "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
+          "url": "https://wallstreetcn.com/livenews/3020863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
+          "url": "https://flash.jin10.com/detail/20251215170334528800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货、道指期货涨0.3%，纳斯达克100指数期货涨近0.3%。",
