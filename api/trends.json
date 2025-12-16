@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T16:25:49.438991+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2025-12-16T17:24:06.031343+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时19分 ~ 16时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时19分 ~ 17时24分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -88,6 +88,21 @@
           "time_info": "[00时25分 ~ 05时17分]"
         },
         {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 17时24分]"
+        },
+        {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://news.ifeng.com/c/8p7htngCHQD",
           "source": "凤凰网",
@@ -99,20 +114,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时22分 ~ 15时21分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 16时25分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -424,7 +425,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -789,7 +790,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -825,6 +826,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时20分]"
+        },
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "“俄版谷歌”，正帮中国商人大赚",
