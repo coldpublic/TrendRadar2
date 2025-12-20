@@ -1,9 +1,7 @@
 {
-  "generated_at": "2025-12-20T16:23:31.768610+08:00",
-  "total_titles_processed": 1204,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2025-12-20T17:17:13.951053+08:00",
+  "total_titles_processed": 1260,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
@@ -18,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 17时17分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -495,8 +493,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 17时17分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -509,8 +507,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时14分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 17时17分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -546,8 +544,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 17时17分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -720,8 +718,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时17分 ~ 16时23分]"
+          "appearance_count": 14,
+          "time_info": "[06时17分 ~ 17时17分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
