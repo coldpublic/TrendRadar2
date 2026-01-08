@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:26:11.226072+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-01-08T17:25:59.966467+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 87,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时25分]"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -37,11 +37,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时25分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -88,6 +89,20 @@
           "time_info": "[00时25分 ~ 07时18分]"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
           "url": "https://www.zhihu.com/question/1991388819304510504",
           "source": "知乎",
@@ -97,6 +112,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 17时25分]"
         },
         {
           "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
@@ -109,31 +136,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时27分 ~ 16时26分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 16时26分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 16时26分]"
         },
         {
           "title": "特朗普退出联合国机构一览表",
@@ -189,7 +191,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -265,6 +267,18 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时25分]"
+        },
+        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -276,18 +290,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时21分]"
-        },
-        {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时26分]"
         },
         {
           "title": "哥伦比亚总统与特朗普通电话",
@@ -563,6 +565,17 @@
           "time_info": "11时27分"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "特朗普：委内瑞拉石油收入将只买美国制造的产品",
           "url": "https://flash.jin10.com/detail/20260108062001008800",
           "source": "金十数据",
@@ -706,6 +719,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "特朗普急退66个国际组织为哪般",
+          "url": "https://www.toutiao.com/trending/7592878921817787954/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美媒：特朗普筹划控制委国有石油公司 目标是将油价压低至50美元/桶",
           "url": "https://flash.jin10.com/detail/20260108101132148800",
           "source": "金十数据",
@@ -767,7 +791,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -888,7 +912,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -921,7 +945,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -976,7 +1000,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -995,7 +1019,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -1006,8 +1030,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1022,6 +1046,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时18分 ~ 15时22分]"
+        },
+        {
+          "title": "美股军工股盘前普涨，雷神技术盘前涨超5%，洛克希德马丁涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3033169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1180,11 +1215,12 @@
           "url": "https://wallstreetcn.com/articles/3762755",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
