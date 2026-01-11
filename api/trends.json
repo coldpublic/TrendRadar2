@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T12:44:59.898122+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-01-11T13:22:46.710172+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时22分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -86,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时13分 ~ 12时44分]"
+          "appearance_count": 12,
+          "time_info": "[03时13分 ~ 13时22分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -137,8 +137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时22分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -186,6 +186,30 @@
           "time_info": "00时20分"
         },
         {
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时22分]"
+        },
+        {
           "title": "特朗普再次威胁干涉伊朗，称准备提供“帮助”",
           "url": "https://news.ifeng.com/c/8poaVVbx4BW",
           "source": "凤凰网",
@@ -228,23 +252,12 @@
           "ranks": [
             1,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时44分]"
-        },
-        {
-          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
-          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时22分]"
         },
         {
           "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
@@ -253,11 +266,12 @@
           "ranks": [
             2,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时22分]"
         },
         {
           "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
@@ -266,23 +280,25 @@
           "ranks": [
             3,
             16,
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
-          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
+          "time_info": "[11时47分 ~ 13时22分]"
         },
         {
           "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
@@ -295,18 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 11时47分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -333,6 +337,32 @@
           "time_info": "[00时20分 ~ 02时24分]"
         },
         {
+          "title": "全面代替美联储？房贷QE后，特朗普要给信用卡利率设“10%上限”",
+          "url": "https://wallstreetcn.com/articles/3763014",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://wallstreetcn.com/livenews/3034603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时22分]"
+        },
+        {
           "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
           "url": "https://flash.jin10.com/detail/20260111081229064800",
           "source": "金十数据",
@@ -346,30 +376,6 @@
           "time_info": "[09时27分 ~ 12时44分]"
         },
         {
-          "title": "全面代替美联储？房贷QE后，特朗普要给信用卡利率设“10%上限”",
-          "url": "https://wallstreetcn.com/articles/3763014",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
-          "url": "https://wallstreetcn.com/livenews/3034603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
-        },
-        {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
           "url": "https://m.thepaper.cn/newsDetail_forward_32362509",
           "source": "澎湃新闻",
@@ -378,8 +384,32 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时22分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 13时22分]"
+        },
+        {
+          "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
+          "url": "https://wallstreetcn.com/livenews/3034618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时22分]"
         },
         {
           "title": "据CBS：当地时间今日上午，特朗普按计划前往佛罗里达州当地的牙医诊所就诊。白宫方面表示，此次治疗未使用麻醉剂。",
@@ -394,26 +424,16 @@
           "time_info": "[09时27分 ~ 11时47分]"
         },
         {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
+          "title": "特朗普被曝已听取打击伊朗方案汇报",
+          "url": "https://www.toutiao.com/trending/7593910770325261860/",
+          "source": "今日头条",
           "ranks": [
-            10
+            29,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
-          "url": "https://wallstreetcn.com/livenews/3034618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时22分]"
         },
         {
           "title": "特朗普称没必要抓普京",
@@ -425,17 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "特朗普被曝已听取打击伊朗方案汇报",
-          "url": "https://www.toutiao.com/trending/7593910770325261860/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         }
       ]
     },
@@ -469,8 +478,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时22分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -480,8 +489,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时22分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -517,11 +526,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时22分]"
         }
       ]
     },
