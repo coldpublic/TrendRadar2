@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T12:47:11.618348+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-01-12T13:27:23.431974+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -38,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 12时47分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 13时27分]"
         },
         {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
@@ -87,8 +88,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时47分]"
+          "time_info": "[11时46分 ~ 13时27分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -105,17 +117,6 @@
           "time_info": "[00时20分 ~ 06时17分]"
         },
         {
-          "title": "特朗普发图自称“委内瑞拉代总统”",
-          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时47分]"
-        },
-        {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
           "url": "https://www.cls.cn/detail/2254115",
           "source": "财联社热门",
@@ -125,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时27分]"
         },
         {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
@@ -166,15 +167,15 @@
           "time_info": "[00时20分 ~ 05时16分]"
         },
         {
-          "title": "分析师：特朗普攻击美联储动摇市场信心",
-          "url": "https://flash.jin10.com/detail/20260112115831082800",
-          "source": "金十数据",
+          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3034991",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "13时27分"
         },
         {
           "title": "特朗普对台问题表态引岛内热议",
@@ -182,11 +183,24 @@
           "source": "抖音",
           "ranks": [
             4,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时27分]"
+        },
+        {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -241,15 +255,40 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时47分]"
+          "time_info": "[11时46分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时27分]"
+        },
+        {
+          "title": "分析师：特朗普攻击美联储动摇市场信心",
+          "url": "https://flash.jin10.com/detail/20260112115831082800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时27分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -285,27 +324,17 @@
           "time_info": "[00时20分 ~ 03时13分]"
         },
         {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
+          "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3034951",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时47分]"
-        },
-        {
-          "title": "特朗普威胁古巴尽快同美国“达成协议”",
-          "url": "https://www.cls.cn/detail/2254162",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时47分]"
+          "time_info": "[11时46分 ~ 13时27分]"
         },
         {
           "title": "特朗普发图自称委内瑞拉代总统",
@@ -331,18 +360,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时17分]"
-        },
-        {
-          "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3034951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时47分]"
         },
         {
           "title": "特朗普说考虑干预伊朗局势的强硬选项",
@@ -446,50 +463,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时17分]"
-        },
-        {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 12时47分]"
-        },
-        {
-          "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 12时47分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -519,6 +494,61 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时17分]"
+        },
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 13时27分]"
+        },
+        {
+          "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 13时27分]"
         }
       ]
     },
