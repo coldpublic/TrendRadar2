@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T15:25:22.973933+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-01-26T16:28:09.012858+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -55,6 +55,19 @@
           "time_info": "[00时21分 ~ 12时53分]"
         },
         {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时54分 ~ 16时28分]"
+        },
+        {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
           "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
           "source": "澎湃新闻",
@@ -67,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时28分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 15时25分]"
         },
         {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
@@ -260,6 +260,17 @@
           "time_info": "[05时17分 ~ 07时17分]"
         },
         {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时28分]"
+        },
+        {
           "title": "特朗普达沃斯演讲有何深意",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%BC%94%E8%AE%B2%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
           "source": "bilibili 热搜",
@@ -308,6 +319,17 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "特朗普：愿意从明尼阿波利斯撤出ICE",
+          "url": "https://www.toutiao.com/trending/7599239635432407050/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "美国总统特朗普敦促国会终止庇护城市政策，并呼吁明尼苏达州州长沃尔兹在执法方面予以合作。",
           "url": "https://flash.jin10.com/detail/20260126064839967800",
           "source": "金十数据",
@@ -317,17 +339,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "美媒：特朗普的前白宫新闻秘书请求他“不要一意孤行”，应将ICE撤出明尼苏达州",
@@ -388,7 +399,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -416,13 +427,24 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
           "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -441,8 +463,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 16时28分]"
         }
       ]
     },
