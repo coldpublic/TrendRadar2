@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T14:45:14.545630+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-04T15:41:47.559279+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -38,8 +38,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
+          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时45分]"
+          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -53,15 +64,27 @@
           "time_info": "[00时47分 ~ 06时27分]"
         },
         {
-          "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
-          "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -73,17 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时45分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -106,6 +118,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 15时41分]"
         },
         {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
@@ -181,18 +205,6 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时45分]"
-        },
-        {
           "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
           "url": "https://wallstreetcn.com/livenews/3049351",
           "source": "华尔街见闻-快讯",
@@ -215,17 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时32分]"
-        },
-        {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时45分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -318,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)首席执行官：希望与美国总统特朗普政府达成一致的肥胖症药物医保覆盖将于今年“年中左右”启动。",
+          "url": "https://flash.jin10.com/detail/20260204152741614800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -518,6 +530,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "特朗普被问及爱泼斯坦案连怼记者",
+          "url": "https://wallstreetcn.com/livenews/3049655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
           "source": "澎湃新闻",
@@ -685,8 +708,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 15时41分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时25分 ~ 14时45分]"
+          "time_info": "[09时44分 ~ 15时41分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -699,17 +733,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时47分 ~ 09时44分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时45分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -741,11 +764,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -816,8 +840,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
@@ -827,8 +851,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 15时41分]"
         },
         {
           "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
@@ -952,6 +976,20 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 15时41分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
           "url": "https://flash.jin10.com/detail/20260204013101107800",
           "source": "金十数据",
@@ -983,19 +1021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 14时45分]"
         },
         {
           "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
@@ -1226,8 +1251,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 14时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 15时41分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
