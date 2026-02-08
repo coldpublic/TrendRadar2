@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T19:21:28.787429+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-02-08T20:40:25.949407+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -245,11 +245,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时40分]"
         },
         {
           "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
@@ -306,6 +307,18 @@
           "time_info": "[14时02分 ~ 16时28分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
+          "url": "https://flash.jin10.com/detail/20260208181448181800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时40分]"
+        },
+        {
           "title": "美民主党高层对特朗普爆粗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%B0%91%E4%B8%BB%E5%85%9A%E9%AB%98%E5%B1%82%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E7%88%86%E7%B2%97%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -315,17 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时08分 ~ 10时09分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-08）",
-          "url": "https://flash.jin10.com/detail/20260208181448181800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "民主党高层对特朗普爆粗口",
@@ -365,8 +367,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时24分 ~ 19时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时24分 ~ 20时40分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -379,8 +381,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时36分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时36分 ~ 20时40分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -428,8 +430,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 20时40分]"
         }
       ]
     },
@@ -446,8 +448,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时40分]"
         }
       ]
     },
@@ -461,11 +463,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时40分]"
         }
       ]
     }
