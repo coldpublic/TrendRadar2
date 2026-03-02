@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T06:25:10.525395+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-03-03T07:22:38.666444+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "“不得不说，特朗普的计划落空了”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
@@ -71,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "特朗普没有“速战速决”！全球市场直面“伊朗冲击”，焦点是“持续时间”",
@@ -83,8 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "中方回应特朗普3月访华能否成行",
@@ -94,11 +94,12 @@
             9,
             7,
             6,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时22分]"
         },
         {
           "title": "特朗普称不达目标不停战",
@@ -108,11 +109,25 @@
             23,
             24,
             26,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普3月访华能否成行？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 07时22分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普：不排除向伊派地面部队",
@@ -124,18 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时42分]"
-        },
-        {
-          "title": "特朗普3月访华能否成行？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684163",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 06时25分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -265,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时32分]"
+        },
+        {
+          "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
+          "url": "https://wallstreetcn.com/livenews/3062170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "英国首相斯塔默：判断什么对英国最有利是我的职责，而非美国总统特朗普的责任。",
@@ -424,7 +438,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -442,33 +456,34 @@
           "url": "https://www.cls.cn/detail/2300294",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 07时22分]"
         },
         {
-          "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
-          "url": "https://wallstreetcn.com/livenews/3062168",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时22分"
         },
         {
-          "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
-          "url": "https://wallstreetcn.com/livenews/3062167",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2300479",
+          "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时22分"
         },
         {
           "title": "美股三大股指低开高走，现已悉数转涨，道指涨0.02%，标普500指数现涨0.1%，纳指涨0.47%。",
@@ -480,6 +495,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
+          "url": "https://wallstreetcn.com/livenews/3062168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
+          "url": "https://wallstreetcn.com/livenews/3062167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
         },
         {
           "title": "数字货币市场在美股开盘后反弹，Solana涨超8%，以太币涨超7%",
@@ -510,11 +549,23 @@
           "url": "https://wallstreetcn.com/livenews/3062150",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
+          "title": "高盛：美股往上走的唯一途径就是先向下走",
+          "url": "https://flash.jin10.com/detail/20260303063803425800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时22分"
         }
       ]
     },
@@ -541,7 +592,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -555,6 +606,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数涨0.8%",
+          "url": "https://wallstreetcn.com/livenews/3062129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时30分]"
+        },
+        {
+          "title": "美元指数2日大幅上涨",
+          "url": "https://flash.jin10.com/detail/20260303061532268800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美元指数DXY日内大涨1.00%，现报98.65。",
+          "url": "https://flash.jin10.com/detail/20260302235801305800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     },
@@ -592,35 +683,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数涨0.8%",
-          "url": "https://wallstreetcn.com/livenews/3062129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时30分]"
-        },
-        {
-          "title": "美元指数DXY日内大涨1.00%，现报98.65。",
-          "url": "https://flash.jin10.com/detail/20260302235801305800",
-          "source": "金十数据",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
