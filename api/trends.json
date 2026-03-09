@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-10T06:25:02.400615+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-03-10T07:24:57.992177+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 100,
       "titles": [
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时24分]"
+        },
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
           "url": "https://wallstreetcn.com/articles/3766987",
@@ -19,27 +30,17 @@
           "time_info": "[00时54分 ~ 06时25分]"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时25分]"
-        },
-        {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
           "url": "https://wallstreetcn.com/articles/3767022",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时24分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -49,8 +50,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时24分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时24分]"
         },
         {
           "title": "美以伊战争｜特朗普：战争已基本结束",
@@ -64,17 +76,6 @@
           "time_info": "[04时29分 ~ 06时25分]"
         },
         {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时25分]"
-        },
-        {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
           "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
@@ -86,6 +87,17 @@
           "time_info": "[06时24分 ~ 06时25分]"
         },
         {
+          "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油一度较日高跳水30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -95,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "美以伊战争｜战争本周会结束吗？特朗普回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
@@ -114,7 +137,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -136,18 +159,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
-          "title": "特朗普：油价涨幅低于我的预期",
-          "url": "https://wallstreetcn.com/livenews/3066772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -169,20 +181,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
         {
-          "title": "美国总统特朗普：俄罗斯总统普京“希望（在国际局势中）非常具有建设性”。",
-          "url": "https://wallstreetcn.com/livenews/3066770",
-          "source": "华尔街见闻-快讯",
+          "title": "据路透社/益普索民调：29%的美国人支持特朗普下令对伊朗发动的军事行动，这一比例与之前的调查结果相差无几。",
+          "url": "https://flash.jin10.com/detail/20260310071419374800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时25分"
+          "time_info": "07时24分"
         },
         {
           "title": "WTI原油期货跌超5.5%，至81.27美元，亚太盘初还曾涨至119.50美元。 据CCTV国际时讯，特朗普称战争已基本结束。",
@@ -194,17 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "【特朗普称对伊朗军事行动是一次“短期行动”】3月9日，美国总统特朗普在谈到美国近期对伊朗军事行动时称，这是一次“短期行动”。他表示，美国与以色列合作对伊朗展开军事行动，伊朗的无人机和导弹能力正在被“彻底摧毁”。他还称，美国及其盟友将持续军事行动，直到敌方被“彻底击败”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3066769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "据媒体报道，特朗普认为针对伊朗的战事已基本接近尾声。美军行动进展已大幅领先于最初预估的4至5周时间表。 原油价格日内转跌，WTI原油价格跌约2%。",
@@ -231,6 +232,18 @@
           "time_info": "[05时29分 ~ 06时25分]"
         },
         {
+          "title": "特朗普：油价涨幅低于我的预期",
+          "url": "https://wallstreetcn.com/livenews/3066772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
           "title": "俄总统助理：普京与特朗普通话，讨论中东地区形势及乌克兰问题",
           "url": "https://wallstreetcn.com/livenews/3066714",
           "source": "华尔街见闻-快讯",
@@ -241,6 +254,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时29分]"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京“希望（在国际局势中）非常具有建设性”。",
+          "url": "https://wallstreetcn.com/livenews/3066770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "【特朗普称对伊朗军事行动是一次“短期行动”】3月9日，美国总统特朗普在谈到美国近期对伊朗军事行动时称，这是一次“短期行动”。他表示，美国与以色列合作对伊朗展开军事行动，伊朗的无人机和导弹能力正在被“彻底摧毁”。他还称，美国及其盟友将持续军事行动，直到敌方被“彻底击败”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3066769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时24分]"
         },
         {
           "title": "特朗普称适时结束对伊军事行动",
@@ -308,7 +345,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -322,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普称暂时免除部分石油相关制裁",
+          "url": "https://wallstreetcn.com/livenews/3066791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "克里姆林宫：美国总统特朗普已致电俄罗斯总统普京，讨论伊朗和乌克兰问题。美国总统特朗普再次表示希望乌克兰冲突尽快结束。通话持续约一小时，富有建设性，务实且坦诚。",
@@ -346,6 +394,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307782",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "美国总统特朗普：我认为伊朗战争已经非常彻底，几乎结束了。",
           "url": "https://flash.jin10.com/detail/20260310032508468800",
           "source": "金十数据",
@@ -366,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普称万斯对袭击伊朗的态度“没那么热情” 否认与其有分歧",
+          "url": "https://flash.jin10.com/detail/20260310071012936800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国总统特朗普表示，他已考虑好接替伊朗最高领袖哈梅内伊的人选，但未作详细说明。",
@@ -407,7 +477,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -429,7 +499,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -473,7 +543,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -506,7 +576,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -550,7 +620,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -583,7 +653,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -627,7 +697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -660,9 +730,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普：美国对伊朗的军事行动“很快”会结束，但“不会”在本周结束",
+          "url": "https://wallstreetcn.com/livenews/3066776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）到目前为止，一切顺利。我们做得很好。",
@@ -682,7 +763,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -715,9 +796,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
+          "url": "https://flash.jin10.com/detail/20260310064625524800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国总统特朗普将于美东时间周一17:30举行新闻发布会。",
@@ -737,7 +829,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -748,9 +840,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普称战争“很快结束”",
+          "url": "https://www.douyin.com/hot/2424936",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "特朗普考虑抑制能源价格 选项包括限制美国石油出口等",
@@ -781,7 +884,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -814,9 +917,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普：将暂时解除部分与石油相关的制裁，以降低油价",
+          "url": "https://flash.jin10.com/detail/20260310063615686800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "消息人士称，美国总统特朗普最早将于周一评估应对油价飙升的选项。",
@@ -847,9 +961,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普结束新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260310062812600800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "特朗普：现在谈论夺取伊朗石油为时尚早",
@@ -880,9 +1005,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：不愿谈论新任最高领袖是否成为众矢之的。",
+          "url": "https://flash.jin10.com/detail/20260310062751802800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "特朗普称对伊朗军事行动是一次“短期行动”",
@@ -891,7 +1027,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -924,7 +1060,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -946,9 +1082,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：我希望霍尔木兹海峡保持畅通。",
+          "url": "https://flash.jin10.com/detail/20260310062444504800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国总统特朗普：伊朗可能已经制造出可以“到达我们本土”的武器。",
@@ -957,15 +1104,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：当伊朗在很长一段时间内都无能力再对美国、以色列或我们的盟友发动武器袭击时，这场危机就结束了。",
+          "url": "https://flash.jin10.com/detail/20260310062344687800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
@@ -1012,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "金十图示：2026年03月09日（周一）热门中概股行情一览（美股收盘）",
