@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T19:31:39.578714+08:00",
-  "total_titles_processed": 1784,
+  "generated_at": "2026-03-10T20:52:47.886557+08:00",
+  "total_titles_processed": 1906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 133,
+      "match_count": 142,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时42分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时42分 ~ 20时52分]"
         },
         {
           "title": "特朗普：对伊行动或很快将结束，但不是在本周，将取消一些制裁以平抑油价",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时42分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时42分 ~ 20时52分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -51,6 +51,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时54分 ~ 06时25分]"
+        },
+        {
+          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
+          "url": "https://www.cls.cn/detail/2308078",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            3,
+            2,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时42分 ~ 20时52分]"
         },
         {
           "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
@@ -91,22 +108,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时42分 ~ 16时36分]"
-        },
-        {
-          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
-          "url": "https://www.cls.cn/detail/2308078",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            3,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时42分 ~ 19时31分]"
         },
         {
           "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
@@ -190,11 +191,12 @@
             15,
             22,
             25,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时42分 ~ 19时31分]"
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 20时52分]"
         },
         {
           "title": "美以伊战争｜特朗普：战争已基本结束",
@@ -298,6 +300,28 @@
           "time_info": "12时06分"
         },
         {
+          "title": "美以伊战争｜特朗普称可能与伊朗对话",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
+          "url": "https://news.ifeng.com/c/8rNxjUXwYy8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "美国总统特朗普：谈论缴获伊朗石油还为时尚早。",
           "url": "https://flash.jin10.com/detail/20260310011925949800",
           "source": "金十数据",
@@ -384,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
+          "url": "https://v.ifeng.com/c/8rNwUGNMvZG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "WTI原油期货跌超5.5%，至81.27美元，亚太盘初还曾涨至119.50美元。 据CCTV国际时讯，特朗普称战争已基本结束。",
@@ -650,7 +685,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -787,6 +822,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美国国防部长赫格塞思：美国总统特朗普高度重视霍尔木兹海峡局势。",
+          "url": "https://flash.jin10.com/detail/20260310203001582800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "报道：特朗普考虑实施出口限制和税收豁免，来平抑油价",
           "url": "https://wallstreetcn.com/livenews/3066630",
           "source": "华尔街见闻-快讯",
@@ -873,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
+        },
+        {
+          "title": "特朗普：有可能有条件同伊朗谈判",
+          "url": "https://www.cls.cn/detail/2308807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "黎巴嫩请求特朗普政府斡旋与以色列的直接和平谈判，以结束冲突。",
@@ -1255,7 +1312,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1291,6 +1348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：（谈穆杰塔巴·哈梅内伊）他最好听听特朗普的话。至于他的地位，我现在无法评论。",
+          "url": "https://flash.jin10.com/detail/20260310202222700800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "消息人士称，美国总统特朗普最早将于周一评估应对油价飙升的选项。",
@@ -1359,6 +1427,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3067289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "特朗普：现在谈论夺取伊朗石油为时尚早",
           "url": "https://flash.jin10.com/detail/20260310013635482800",
           "source": "金十数据",
@@ -1401,6 +1480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国处于“非常有利的地位”，为美国总统特朗普提供了最大选择空间。",
+          "url": "https://flash.jin10.com/detail/20260310202142671800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "普京特朗普再通话",
@@ -1456,6 +1546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普称有可能有条件同伊朗谈判",
+          "url": "https://www.toutiao.com/trending/7615598658259521050/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美国总统特朗普：（谈及霍尔木兹海峡）现在船只正在通过，但“正在考虑控制它”。",
@@ -1516,7 +1617,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1588,6 +1689,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3067310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
           "url": "https://wallstreetcn.com/articles/3767097",
           "source": "华尔街见闻",
@@ -1595,8 +1707,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时30分 ~ 20时52分]"
         },
         {
           "title": "美股收盘：三大股指集体收涨 芯片股走强",
@@ -1616,7 +1728,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1660,7 +1772,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1674,6 +1786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "市场对伊朗战争结束信心减弱 美股反弹势头停滞",
+          "url": "https://flash.jin10.com/detail/20260310202457509800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
