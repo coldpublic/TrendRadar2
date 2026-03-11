@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T16:36:41.819057+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-03-11T17:39:22.632687+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -86,8 +86,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 16时36分]"
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 17时39分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -99,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时07分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[12时07分 ~ 17时39分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -111,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 17时39分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -124,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 17时39分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -158,8 +158,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 17时39分]"
         },
         {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
@@ -284,7 +284,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -490,8 +490,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 16时36分]"
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 17时39分]"
         },
         {
           "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
@@ -665,7 +665,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
