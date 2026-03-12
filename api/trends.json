@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T16:38:27.796396+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-03-12T17:39:14.078651+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时23分 ~ 16时38分]"
+          "appearance_count": 13,
+          "time_info": "[06时23分 ~ 17时39分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -119,6 +119,20 @@
           "time_info": "[07时21分 ~ 15时43分]"
         },
         {
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时11分 ~ 17时39分]"
+        },
+        {
           "title": "美官员称特朗普对伊朗反应有误判",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -133,18 +147,16 @@
           "time_info": "[02时49分 ~ 07时22分]"
         },
         {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6,
             5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时38分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时39分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -167,6 +179,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://www.toutiao.com/trending/7615192157801152518/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 17时39分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示可能打击更多目标，伊方警告美或陷入长期耗损战",
@@ -236,17 +260,6 @@
           "time_info": "01时46分"
         },
         {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "特朗普称对伊朗军事行动「即将结束」，如何解读？在另一方誓言将「连环打击」时，战争真能结束吗？",
           "url": "https://www.zhihu.com/question/2015192608771633980",
           "source": "知乎",
@@ -257,18 +270,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时43分 ~ 14时49分]"
-        },
-        {
-          "title": "中方回应特朗普将对华新贸易调查",
-          "url": "https://www.toutiao.com/trending/7615192157801152518/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时38分]"
         },
         {
           "title": "标普500指数维持超过0.2%的跌幅，据华尔街日报，美国总统特朗普将宣布新的关税调查。",
@@ -956,8 +957,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 16时38分]"
+          "appearance_count": 11,
+          "time_info": "[07时21分 ~ 17时39分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
@@ -1005,7 +1006,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -1175,7 +1176,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
@@ -1232,7 +1233,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         }
