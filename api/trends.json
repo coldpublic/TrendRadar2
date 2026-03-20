@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:36:38.791571+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-03-20T17:37:23.136592+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
             9,
             8,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时32分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[05时32分 ~ 17时37分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -63,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 16时36分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 17时37分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -116,6 +117,17 @@
           "time_info": "[09时48分 ~ 16时36分]"
         },
         {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时11分 ~ 17时37分]"
+        },
+        {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -127,15 +139,15 @@
           "time_info": "09时48分"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时11分 ~ 16时36分]"
+          "time_info": "[13时49分 ~ 17时37分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -161,17 +173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 16时36分]"
         },
         {
           "title": "【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。 当被问及是否打算解除对伊朗石油的制裁，以及是否打算在该地区部署美军或更多军队时，特朗普表示，他不会在任何地方部署军队，美国将采取一切必要措施来维持油价稳定。 特朗普还称，美国需要更多资金来资助对伊朗的战争。（央视）",
@@ -220,6 +221,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时33分]"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时37分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列在针对南帕尔斯的行动中系单独行动。特朗普要求我们暂停今后此类袭击。",
@@ -355,17 +368,6 @@
           "time_info": "09时48分"
         },
         {
-          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作日本偷袭珍珠港，如何解读这一言论？如何看待当前美日关系？",
           "url": "https://www.zhihu.com/question/2018233412289318937",
           "source": "知乎",
@@ -460,6 +462,18 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 17时37分]"
+        },
+        {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
           "url": "https://www.cls.cn/detail/2318884",
           "source": "财联社热门",
@@ -470,17 +484,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时26分 ~ 15时43分]"
-        },
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 16时36分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -560,7 +563,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -593,7 +596,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -659,7 +662,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
