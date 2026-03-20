@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T12:11:53.271628+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-03-20T13:49:59.305395+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 12时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 13时49分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 12时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 13时49分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -87,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时32分 ~ 12时11分]"
+          "appearance_count": 7,
+          "time_info": "[05时32分 ~ 13时49分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -100,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -135,8 +146,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时49分]"
+        },
+        {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时11分]"
+          "time_info": "[12时11分 ~ 13时49分]"
         },
         {
           "title": "【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。 当被问及是否打算解除对伊朗石油的制裁，以及是否打算在该地区部署美军或更多军队时，特朗普表示，他不会在任何地方部署军队，美国将采取一切必要措施来维持油价稳定。 特朗普还称，美国需要更多资金来资助对伊朗的战争。（央视）",
@@ -199,17 +221,6 @@
           "time_info": "[03时44分 ~ 04时33分]"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
           "title": "特朗普见高市早苗提偷袭珍珠港",
           "url": "https://www.douyin.com/hot/2436715",
           "source": "抖音",
@@ -230,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "特朗普会晤高市早苗 要求日本就伊朗战事出力",
@@ -395,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "近90条帖子直播战争：特朗普的Truth Social正在指挥中东",
+          "url": "https://flash.jin10.com/detail/20260320123515383800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
@@ -424,8 +457,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 12时11分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 13时49分]"
+        },
+        {
+          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
+          "url": "https://wallstreetcn.com/articles/3767876",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时49分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -437,17 +481,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 07时27分]"
-        },
-        {
-          "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
-          "url": "https://wallstreetcn.com/articles/3767876",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时11分]"
         },
         {
           "title": "美股三大股指集体收跌，道指跌0.4%，纳指和标普500指数均跌0.28%，纳斯达克中国金龙指数收跌1%。",
@@ -728,7 +761,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
