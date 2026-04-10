@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T17:04:56.016076+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-04-10T18:50:18.786584+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -46,6 +46,18 @@
           "time_info": "[01时03分 ~ 07时35分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 18时50分]"
+        },
+        {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
           "url": "https://www.cls.cn/detail/2339900",
           "source": "财联社热门",
@@ -53,18 +65,6 @@
             3,
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 17时04分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -202,15 +202,15 @@
           "time_info": "[10时06分 ~ 15时30分]"
         },
         {
-          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
-          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时04分"
+          "time_info": "18时50分"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -261,6 +261,18 @@
           "time_info": "[13时21分 ~ 15时30分]"
         },
         {
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 18时50分]"
+        },
+        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
           "url": "https://www.cls.cn/detail/2339829",
           "source": "财联社热门",
@@ -271,6 +283,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时06分 ~ 13时22分]"
+        },
+        {
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 18时50分]"
         },
         {
           "title": "特朗普，对鲤鱼宣战？",
@@ -367,15 +390,15 @@
           "time_info": "[05时43分 ~ 06时37分]"
         },
         {
-          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "特朗普警告伊朗：勿对霍尔木兹海峡船只收费",
@@ -406,7 +429,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -420,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "特朗普对鲤鱼宣战",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%B2%A4%E9%B1%BC%E5%AE%A3%E6%88%98%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "美国总统特朗普：伊朗在霍尔木兹海峡允许石油通过方面的表现非常糟糕。",
@@ -475,6 +509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩、北约秘书长吕特预计将讨论美国总统特朗普的访问。",
+          "url": "https://flash.jin10.com/detail/20260410182424349800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "特朗普称已要求内塔尼亚胡在黎巴嫩行动“更低调”",
@@ -563,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "英国首相斯塔默：与美国总统特朗普就霍尔木兹海峡问题的讨论涉及军事能力和船只通过海峡的后勤保障。",
+          "url": "https://flash.jin10.com/detail/20260410181452506800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "美国总统特朗普对达成伊朗和平协议“持乐观态度”。 如果伊朗不达成协议，后果将很痛苦。（NBC）",
@@ -696,7 +752,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -849,8 +905,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时06分 ~ 17时04分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 18时50分]"
         }
       ]
     }
