@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T15:30:44.226626+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-04-10T17:04:56.016076+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -46,27 +46,17 @@
           "time_info": "[01时03分 ~ 07时35分]"
         },
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时43分]"
-        },
-        {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
           "url": "https://www.cls.cn/detail/2339900",
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 15时30分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 17时04分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -77,8 +67,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 17时04分]"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时06分 ~ 15时30分]"
+          "time_info": "[01时03分 ~ 05时43分]"
         },
         {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
@@ -107,6 +108,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时03分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 17时04分]"
         },
         {
           "title": "伊朗战争丨美前众议员怼特朗普：发动战争，简直疯了",
@@ -188,16 +202,15 @@
           "time_info": "[10时06分 ~ 15时30分]"
         },
         {
-          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
-          "url": "https://www.cls.cn/detail/2339892",
-          "source": "财联社热门",
+          "title": "特朗普真要从欧洲撤走美军？白宫称“在商讨”",
+          "url": "https://news.ifeng.com/c/8sDAVEwvCNz",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 15时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -387,6 +400,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "格陵兰岛总理回应特朗普：我们不是一块冰",
+          "url": "https://news.ifeng.com/c/8sClfHB09mn",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "特朗普：伊朗在海峡石油运输方面表现得非常糟糕",
           "url": "https://flash.jin10.com/detail/20260410063238426800",
           "source": "金十数据",
@@ -555,7 +579,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
@@ -664,6 +688,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时37分]"
+        },
+        {
+          "title": "美股盘前，台积电涨1.37%，公司Q1营收突破万亿大关，3月单月同比激增45%。Lumentum盘前涨超4%，得益于AI需求，公司预计2028年订单将迅速排满。",
+          "url": "https://wallstreetcn.com/livenews/3085705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
@@ -814,8 +849,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 15时30分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 17时04分]"
         }
       ]
     }
