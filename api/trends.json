@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-23T07:42:42.128920+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-04-23T10:11:00.879787+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 07时42分]"
-        },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
           "url": "https://www.cls.cn/detail/2352682",
           "source": "财联社热门",
           "ranks": [
             3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时20分 ~ 10时11分]"
+        },
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": false,
@@ -44,6 +44,20 @@
           "time_info": "[01时20分 ~ 06时44分]"
         },
         {
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时14分 ~ 10时11分]"
+        },
+        {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
           "url": "https://wallstreetcn.com/articles/3770539",
           "source": "华尔街见闻",
@@ -55,30 +69,17 @@
           "time_info": "[01时20分 ~ 04时51分]"
         },
         {
-          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
-          "url": "https://wallstreetcn.com/articles/3770634",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时14分 ~ 07时42分]"
-        },
-        {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时20分 ~ 07时42分]"
+          "appearance_count": 11,
+          "time_info": "[01时20分 ~ 10时11分]"
         },
         {
           "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
@@ -112,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 01时58分]"
+        },
+        {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -263,6 +275,18 @@
           "time_info": "[01时20分 ~ 03时14分]"
         },
         {
+          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
+          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 10时11分]"
+        },
+        {
           "title": "特朗普政府股权收购热潮总额逼近210亿美元",
           "url": "https://wallstreetcn.com/livenews/3092775",
           "source": "华尔街见闻-快讯",
@@ -287,13 +311,24 @@
           "time_info": "[06时44分 ~ 07时42分]"
         },
         {
+          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
           "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -331,17 +366,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
-          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
           "title": "以媒：特朗普设定对伊朗停火期限26日结束",
           "url": "https://flash.jin10.com/detail/20260423021525008800",
           "source": "金十数据",
@@ -370,7 +394,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -490,11 +514,24 @@
           "ranks": [
             13,
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时47分 ~ 07时42分]"
+          "appearance_count": 6,
+          "time_info": "[05时47分 ~ 10时11分]"
+        },
+        {
+          "title": "【早报】 白宫：特朗普未就与伊朗停火延长设最后期限；美股、油价、金价同步上涨",
+          "url": "https://www.cls.cn/detail/2352894",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 10时11分]"
         },
         {
           "title": "IBM(IBM.N)美股盘后跌8%。",
@@ -611,7 +648,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -625,17 +662,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
-        },
-        {
-          "title": "【早报】 白宫：特朗普未就与伊朗停火延长设最后期限；美股、油价、金价同步上涨",
-          "url": "https://www.cls.cn/detail/2352894",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
         },
         {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
@@ -710,7 +736,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -720,6 +746,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
+          "url": "https://www.cls.cn/detail/2352843",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 10时11分]"
+        },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
           "url": "https://wallstreetcn.com/livenews/3092753",
@@ -745,17 +783,6 @@
           "time_info": "[04时51分 ~ 05时47分]"
         },
         {
-          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
-          "url": "https://www.cls.cn/detail/2352843",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
           "title": "芯片股创历史上最长连涨天数，费城半导体指数初步收涨约2.7%，连续第十六个交易日走高，创1994年有数据记录以来最长连涨天数。Arm控股初步收涨11.3%，闪迪Sandisk涨8.5%，美光涨8.4%，AMD涨6.9%。 标普500指数初步收涨1%，科技板块涨2.1%，电信、能源板块涨超1%，房地产板块跌0.8%。 纳斯达克100指数初步收涨1.7%，成分股中，Arm控股初步收涨11.3%，Strategy涨9.3%，闪迪Sandisk涨8.5%，美光涨8.4%，达芬奇手术机器人涨7%，AMD涨6.9%，谷歌A涨2.1%，Workday则收跌2.2%，T-Mobile跌3.3%，路透跌4.1%，Booking跌6.4%。",
           "url": "https://wallstreetcn.com/livenews/3092822",
           "source": "华尔街见闻-快讯",
@@ -765,6 +792,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI在ChatGPT引入Workspace Agents。",
+          "url": "https://wallstreetcn.com/livenews/3092779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 03时14分]"
+        },
+        {
+          "title": "ChatGPT Images 2.0发布",
+          "url": "https://www.douyin.com/hot/2474931",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 10时11分]"
+        },
+        {
+          "title": "OpenAI：在ChatGPT中引入工作空间助手。",
+          "url": "https://flash.jin10.com/detail/20260423014529135800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "软银寻求以OpenAI股票作抵押，申请100亿美元保证金贷款。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3092928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -793,9 +871,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 10时11分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
@@ -803,35 +881,6 @@
           "source": "百度热搜",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI在ChatGPT引入Workspace Agents。",
-          "url": "https://wallstreetcn.com/livenews/3092779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时14分]"
-        },
-        {
-          "title": "OpenAI：在ChatGPT中引入工作空间助手。",
-          "url": "https://flash.jin10.com/detail/20260423014529135800",
-          "source": "金十数据",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
