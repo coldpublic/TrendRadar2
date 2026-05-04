@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:14:55.274299+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-05-04T19:45:24.928048+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -80,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 17时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 19时45分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -111,15 +111,15 @@
           "time_info": "[00时44分 ~ 07时40分]"
         },
         {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 19时45分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
@@ -148,15 +148,18 @@
           "time_info": "[00时44分 ~ 06时37分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
+            6,
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 19时45分]"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -167,8 +170,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 19时45分]"
+        },
+        {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时29分 ~ 17时14分]"
+          "time_info": "[14时08分 ~ 19时45分]"
         },
         {
           "title": "周一悉尼盘初，美元兑日元跌超0.14%，一度走弱至156.70日元。 欧元兑美元涨超0.23%，一度涨至1.1763。 英镑兑美元涨超0.13%，报1.3605。 美国总统特朗普声称，与伊朗进行了非常积极的讨论。",
@@ -204,19 +219,6 @@
           "time_info": "14时09分"
         },
         {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 17时14分]"
-        },
-        {
           "title": "特朗普：伊朗的“新提议”不可接受",
           "url": "https://wallstreetcn.com/livenews/3098301",
           "source": "华尔街见闻-快讯",
@@ -240,6 +242,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 19时45分]"
         },
         {
           "title": "特朗普称伊朗的“新提议”不可接受",
@@ -356,19 +371,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时38分 ~ 07时40分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：我完全留意到，我的代表们正在与伊朗进行非常积极的磋商，这些磋商有望为各方带来积极成果。",
@@ -505,6 +507,17 @@
           "time_info": "14时09分"
         },
         {
+          "title": "美媒：特朗普对伊朗问题僵局感到“厌倦”，他想要达成协议",
+          "url": "https://wallstreetcn.com/livenews/3098472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "北约秘书长：由于一些欧洲国家在伊朗战争中的立场，特朗普现在感到很沮丧。",
           "url": "https://flash.jin10.com/detail/20260504132754851800",
           "source": "金十数据",
@@ -555,7 +568,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -577,7 +590,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -596,7 +609,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
@@ -612,6 +625,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时53分 ~ 17时14分]"
+        },
+        {
+          "title": "战争重燃预期升温，美股期货短线跳水，布油大涨5%，黄金跌逾1%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
@@ -637,15 +672,37 @@
           "time_info": "10时29分"
         },
         {
+          "title": "美股期货跌幅收窄，此前有报道称美国否认军舰遭袭。",
+          "url": "https://wallstreetcn.com/livenews/3098470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3098437",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        },
+        {
+          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
+          "url": "https://wallstreetcn.com/livenews/3098462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         }
       ]
     },
