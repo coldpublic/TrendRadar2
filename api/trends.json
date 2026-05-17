@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T22:53:28.208427+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-05-17T23:56:14.760113+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -66,11 +66,12 @@
             1,
             2,
             3,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 22时53分]"
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 23时56分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -136,6 +137,32 @@
           "time_info": "[00时54分 ~ 10时41分]"
         },
         {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 23时56分]"
+        },
+        {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 23时56分]"
+        },
+        {
           "title": "特朗普黄仁勋同款美食",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E4%BB%81%E5%8B%8B%E5%90%8C%E6%AC%BE%E7%BE%8E%E9%A3%9F",
           "source": "bilibili 热搜",
@@ -145,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
-        },
-        {
-          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
-          "url": "https://flash.jin10.com/detail/20260517215033948800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -172,17 +188,16 @@
           "time_info": "[02时59分 ~ 07时48分]"
         },
         {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
+          "title": "国民党副主席回应特朗普涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
             14,
-            13,
-            15
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时19分 ~ 22时53分]"
+          "time_info": "[19时02分 ~ 23时56分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -234,17 +249,16 @@
           "time_info": "[19时02分 ~ 21时10分]"
         },
         {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
+          "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
+          "url": "https://flash.jin10.com/detail/20260517215033948800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10,
-            14
+            5,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时02分 ~ 22时53分]"
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时56分]"
         },
         {
           "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
@@ -283,18 +297,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 04时03分]"
-        },
-        {
-          "title": "国民党副主席回应特朗普涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 22时53分]"
         },
         {
           "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
@@ -356,6 +358,17 @@
           "time_info": "[10时40分 ~ 10时41分]"
         },
         {
+          "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517233453161800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
           "url": "https://flash.jin10.com/detail/20260517093403715800",
           "source": "金十数据",
@@ -373,7 +386,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -527,8 +540,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 22时53分]"
+          "appearance_count": 9,
+          "time_info": "[10时40分 ~ 23时56分]"
         },
         {
           "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
@@ -568,8 +581,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时53分]"
+          "appearance_count": 4,
+          "time_info": "[21时10分 ~ 23时56分]"
         }
       ]
     },
