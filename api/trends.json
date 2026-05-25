@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T07:57:06.287384+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-05-25T11:33:07.177211+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -148,6 +148,17 @@
           "time_info": "[00时05分 ~ 03时14分]"
         },
         {
+          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
+          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
           "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
           "url": "https://flash.jin10.com/detail/20260525010916654800",
           "source": "金十数据",
@@ -193,6 +204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 07时57分]"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
@@ -286,8 +308,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 11时33分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
@@ -307,22 +329,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 11时33分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 07时57分]"
+          "appearance_count": 11,
+          "time_info": "[00时05分 ~ 11时33分]"
         }
       ]
     },
