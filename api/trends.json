@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T13:59:04.293571+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-06-01T19:39:47.053480+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 08时06分]"
+        },
+        {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 19时39分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
@@ -60,17 +71,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 06时58分]"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "特朗普驳斥伊朗协议不涉及核问题的消息",
@@ -172,7 +172,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -186,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：内部文件显示，特朗普政府正在制定一项计划，该计划将允许美国移民官员在不面试申请人的情况下迅速驳回一些庇护申请。",
+          "url": "https://flash.jin10.com/detail/20260601190106135800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         },
         {
           "title": "美国总统特朗普：我们也将继续推进与叙利亚和伊拉克政府的战略合作，因此我们与他们的关系将持续加深！",
@@ -216,7 +227,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
@@ -224,8 +235,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "华尔街大鳄警告：美股崩盘和衰退已是“定时炸弹”，可转向金银投资！",
+          "url": "https://www.cls.cn/detail/2386791",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
         {
           "title": "美股三大股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20260601060027642800",
@@ -244,7 +266,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -320,7 +342,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         }
