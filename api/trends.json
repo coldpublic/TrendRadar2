@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T19:53:01.003068+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-06-13T21:50:32.455057+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -53,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 19时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 21时50分]"
         },
         {
           "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
@@ -77,8 +77,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[19时52分 ~ 21时50分]"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
@@ -115,6 +115,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
           "url": "https://flash.jin10.com/detail/20260613135132785800",
           "source": "金十数据",
@@ -124,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
@@ -181,6 +203,17 @@
           "time_info": "10时55分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-13）",
+          "url": "https://flash.jin10.com/detail/20260613203149483800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
+        },
+        {
           "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
           "url": "https://wallstreetcn.com/livenews/3118976",
           "source": "华尔街见闻-快讯",
@@ -220,7 +253,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -253,15 +286,18 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5,
+            2,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 07时14分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 21时50分]"
         },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -273,21 +309,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 19时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 21时50分]"
         },
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            2,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 19时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 07时14分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -299,8 +333,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 19时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 21时50分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -457,8 +491,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 21时50分]"
         },
         {
           "title": "亚马逊云服务(AWS)：Anthropic已要求我们撤销所有用户在全部区域范围内对Claude Fable 5和Claude Mythos 5的访问权限。所有其他Anthropic模型不受影响。",
@@ -494,6 +528,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 14时56分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         }
       ]
     },
@@ -539,24 +602,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 03时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 14时56分]"
         }
       ]
     }
