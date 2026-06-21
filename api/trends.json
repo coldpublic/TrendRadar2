@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T07:03:58.355934+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-06-21T11:38:48.406057+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 11时38分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -56,27 +56,17 @@
           "time_info": "[01时22分 ~ 07时03分]"
         },
         {
-          "title": "特朗普：若不能达成协议，美或收取海峡通行费",
-          "url": "https://news.ifeng.com/c/8u6beESPjqG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
           "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
           "source": "澎湃新闻",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 11时38分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -86,8 +76,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 11时38分]"
+        },
+        {
+          "title": "特朗普：若不能达成协议，美或收取海峡通行费",
+          "url": "https://news.ifeng.com/c/8u6beESPjqG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         },
         {
           "title": "特朗普的“空中行宫”谁买单",
@@ -138,6 +139,17 @@
           "time_info": "[05时12分 ~ 07时03分]"
         },
         {
+          "title": "意大利总理回击特朗普批评：应关注自身支持率",
+          "url": "https://news.ifeng.com/c/8u6beESPjqF",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
           "url": "https://flash.jin10.com/detail/20260621012943584800",
           "source": "金十数据",
@@ -158,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普回应伊朗关闭霍尔木兹海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         },
         {
           "title": "美国总统特朗普：美国移民和海关执法局（ICE）的名称“ICE”应该改成“NICE”。这样一来，就能彻底把那些腐败、不诚实、毫无爱国心的记者和新闻工作者搞得晕头转向。",
@@ -205,11 +228,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 11时38分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -235,7 +259,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
