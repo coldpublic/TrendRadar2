@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T05:58:11.025636+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-06T07:01:43.804026+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时01分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时01分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时01分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -46,11 +46,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时01分]"
         },
         {
           "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
@@ -58,11 +59,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 07时01分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
@@ -76,15 +78,18 @@
           "time_info": "00时04分"
         },
         {
-          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
-          "url": "https://flash.jin10.com/detail/20260706050829580800",
+          "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
+          "url": "https://flash.jin10.com/detail/20260706024451820800",
           "source": "金十数据",
           "ranks": [
-            4
+            5,
+            11,
+            15,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时22分 ~ 07时01分]"
         },
         {
           "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
@@ -124,17 +129,16 @@
           "time_info": "[01时59分 ~ 04时54分]"
         },
         {
-          "title": "特朗普将在北约峰会期间会晤乌克兰和叙利亚领导人",
-          "url": "https://flash.jin10.com/detail/20260706024451820800",
+          "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
+          "url": "https://flash.jin10.com/detail/20260706050829580800",
           "source": "金十数据",
           "ranks": [
-            5,
-            11,
-            15
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 05时58分]"
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时01分]"
         },
         {
           "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
@@ -148,6 +152,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时59分 ~ 04时54分]"
+        },
+        {
+          "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
+          "url": "https://flash.jin10.com/detail/20260706033046611800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 07时01分]"
         },
         {
           "title": "特朗普再次呼吁废除“冗长辩论”机制",
@@ -174,18 +191,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 05时58分]"
-        },
-        {
-          "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
-          "url": "https://flash.jin10.com/detail/20260706033046611800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时58分]"
         },
         {
           "title": "美国高级官员：特朗普将与乌克兰总统泽连斯基讨论如何结束战争。",
@@ -282,8 +287,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时01分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -293,8 +298,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时01分]"
         }
       ]
     },
@@ -311,8 +316,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时01分]"
         }
       ]
     }
