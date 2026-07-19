@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T07:49:51.417508+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-07-19T10:12:11.324525+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时52分 ~ 07时49分]"
+        },
+        {
+          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
+          "url": "https://news.ifeng.com/c/8us63AU51TY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时03分 ~ 10时12分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -43,15 +55,18 @@
           "time_info": "[00时52分 ~ 07时49分]"
         },
         {
-          "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
-          "url": "https://news.ifeng.com/c/8us63AU51TY",
-          "source": "凤凰网",
+          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            20,
+            19,
+            18,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时03分 ~ 07时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 10时12分]"
         },
         {
           "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
@@ -79,21 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时49分]"
-        },
-        {
-          "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33611562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 10时12分]"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -101,11 +103,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时49分]"
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时12分]"
         },
         {
           "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
@@ -113,11 +116,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时49分]"
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时12分]"
         },
         {
           "title": "伊朗最高领袖：美国的违约行为表明特朗普的签字毫无价值",
@@ -170,6 +174,19 @@
           "time_info": "[01时54分 ~ 04时03分]"
         },
         {
+          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260719045619804800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时46分 ~ 10时12分]"
+        },
+        {
           "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
           "url": "https://flash.jin10.com/detail/20260719003200067800",
           "source": "金十数据",
@@ -180,18 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时54分]"
-        },
-        {
-          "title": "据黎巴嫩国家通讯社：黎巴嫩总统奥恩已抵达华盛顿，将于明日开始与美国国务卿鲁比奥会面，并于下周二与美国总统特朗普会晤。",
-          "url": "https://flash.jin10.com/detail/20260719045619804800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时46分 ~ 07时49分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使：特朗普摧毁了两项重要外交成果",
@@ -258,8 +263,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 10时12分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -286,8 +291,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 07时49分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 10时12分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -330,11 +335,12 @@
           "url": "https://flash.jin10.com/detail/20260719055403527800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 10时12分]"
         }
       ]
     }
