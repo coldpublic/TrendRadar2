@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T13:41:01.035340+08:00",
-  "total_titles_processed": 887,
+  "generated_at": "2026-07-25T16:02:05.324500+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 16时02分]"
         },
         {
           "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
@@ -59,11 +60,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普称詹姆斯是种族主义者",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 16时02分]"
         },
         {
           "title": "美国总统特朗普：新的关税非常标准。另一种征收关税的方式更简单，我们有多种形式。",
@@ -100,15 +114,15 @@
           "time_info": "[13时40分 ~ 13时41分]"
         },
         {
-          "title": "特朗普称詹姆斯是种族主义者",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85",
-          "source": "百度热搜",
+          "title": "特朗普宣布新一轮加征关税",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "time_info": "[16时01分 ~ 16时02分]"
         },
         {
           "title": "美国小企业提起诉讼，质疑特朗普新的“强迫劳动”关税措施。诉讼称，相关关税授权需要提供更详细的、针对具体国家的调查结论，才能在法律上成立。",
@@ -282,7 +296,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -480,6 +494,17 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 16时02分]"
+        },
+        {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
@@ -489,6 +514,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 06时02分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 16时02分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -503,26 +539,17 @@
           "time_info": "[00时35分 ~ 06时02分]"
         },
         {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时41分]"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
-            3
+            6,
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时41分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 16时02分]"
         },
         {
           "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
@@ -545,18 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时41分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
@@ -667,6 +682,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "Claude Opus 5发布",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%205%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 16时02分]"
+        },
+        {
           "title": "AWS：Claude Opus在包括美国东部（北弗吉尼亚）、亚太地区（墨尔本）、欧洲（爱尔兰）、欧洲（斯德哥尔摩）等地区上线。",
           "url": "https://flash.jin10.com/detail/20260725020559389800",
           "source": "金十数据",
@@ -676,18 +704,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        },
-        {
-          "title": "Claude Opus 5发布",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Opus%205%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时54分 ~ 13时41分]"
         },
         {
           "title": "Claude Opus 5震撼发布",
