@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:13:39.956036+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-07-28T21:54:21.346037+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "内塔尼亚胡访美，会与特朗普聊啥？",
@@ -65,6 +65,20 @@
           "time_info": "[00时13分 ~ 07时59分]"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时41分 ~ 21时54分]"
+        },
+        {
           "title": "美国总统特朗普：我们将迅速结束伊朗的核威胁。",
           "url": "https://flash.jin10.com/detail/20260728034315449800",
           "source": "金十数据",
@@ -107,19 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 19时13分]"
         },
         {
           "title": "美国总统特朗普：伊朗正在乞求美国解除封锁。",
@@ -197,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "特朗普称美国目前在伊朗问题上地位强势",
+          "url": "https://wallstreetcn.com/livenews/3141044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美国总统特朗普谴责全美汽车工人联合会（UAW）的领导人Shawn Fain。",
@@ -331,6 +343,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "特朗普称伊朗谈判“进展良好”，“不达成协议就进行打击”",
+          "url": "https://flash.jin10.com/detail/20260728211128089800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美国总统特朗普：我们要取消夏令时。",
           "url": "https://flash.jin10.com/detail/20260728031330264800",
           "source": "金十数据",
@@ -351,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普（谈美墨加协定）：我其实不想更新它。",
+          "url": "https://wallstreetcn.com/livenews/3141032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "路透社/益普索调查显示，美国总统特朗普的总统支持率从34%上升至37%。",
@@ -417,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        },
+        {
+          "title": "美国总统特朗普：现在是伊朗达成协议的好时机。 如果没有伊朗协议达成，将回去完成这项工作。 我们现在处于非常有利的地位。 希望避免袭击伊朗的桥梁和发电厂。 伊朗没有控制霍尔木兹海峡，我们控制着霍尔木兹海峡。 只有我们想让通过的船只才能通过海峡。",
+          "url": "https://wallstreetcn.com/livenews/3141026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "特朗普：伊朗谈判窗口有限，若谈判破裂将重启军事行动",
@@ -521,8 +566,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时41分 ~ 21时54分]"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=2&Refer=top",
@@ -534,18 +591,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 07时59分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时41分 ~ 19时13分]"
         },
         {
           "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
@@ -611,6 +656,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "美股开盘，道指涨0.6%，标普500指数跌0.01%，纳指跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3141054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
           "url": "https://www.cls.cn/detail/2438003",
           "source": "财联社热门",
@@ -633,6 +689,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "芯片抛售蔓延全球，美股指涨跌互现，存储股走低，苹果市值首破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
+        {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
@@ -676,11 +754,24 @@
           "source": "贴吧",
           "ranks": [
             7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 21时54分]"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            13,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 19时13分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 21时54分]"
         },
         {
           "title": "美股迎芯片风暴 苹果重返市值第一",
@@ -692,18 +783,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 19时13分]"
         },
         {
           "title": "美股芯片股“血流成河”",
@@ -723,9 +802,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "PayPal第二季度调整后每股收益1.38美元，预估1.27美元。 第二季度净营收86.8亿美元，同比增长4.8%，预估84.6亿美元。 第二季度活跃客户账户数4.4亿，同比增长0.2%，预估4.4亿。 第二季度调整后运营收益15.1亿美元，同比下降8.3%，预估14.3亿美元。 第二季度调整后运营利润率17％，上年同期20％，预估16.9％。 第二季度调整后自由现金流18.3亿美元，上年同期6.56亿美元，预估15亿美元 PayPal预计全年调整后每股收益大约5.38美元，市场预估5.31美元。 PayPal仍然预测全年资本支出大约10亿美元，市场预估9.686亿美元。 PayPal美股盘前涨超2%。",
@@ -734,7 +824,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -745,7 +835,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -792,6 +882,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3141035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         },
         {
           "title": "美股商业航天股盘前走低，SpaceX(SPCX.O)、Rocket Lab(RKLB.O)跌超2%。",
@@ -976,7 +1077,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -1005,11 +1106,12 @@
             1,
             7,
             12,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时22分 ~ 19时13分]"
+          "appearance_count": 11,
+          "time_info": "[02时22分 ~ 21时54分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
