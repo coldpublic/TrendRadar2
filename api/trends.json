@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T06:00:20.274145+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-07-29T07:04:54.850169+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗如此气急败坏地想要与我达成一份协议。 我们将让伊朗签署一份协议。 我们将让战争结束。",
+          "url": "https://wallstreetcn.com/livenews/3141225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
         },
         {
           "title": "甩锅给拜登，特朗普否认美暂停打击伊朗因弹药库存告急",
@@ -168,7 +179,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
         }
@@ -176,7 +187,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -186,8 +197,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时04分]"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时04分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -201,31 +226,18 @@
           "time_info": "[00时03分 ~ 04时14分]"
         },
         {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时00分]"
-        },
-        {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3778135",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时04分]"
         },
         {
           "title": "美股半导体崩盘,闪迪跌破新低",
@@ -235,8 +247,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时04分]"
         },
         {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
@@ -244,11 +256,34 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 06时00分]"
+          "appearance_count": 5,
+          "time_info": "[04时13分 ~ 07时04分]"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
+          "url": "https://flash.jin10.com/detail/20260729062508619800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
         },
         {
           "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
@@ -268,7 +303,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
         },
@@ -279,7 +314,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
         },
@@ -290,7 +325,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
         }
@@ -305,22 +340,24 @@
           "url": "https://flash.jin10.com/detail/20260729053516327800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时04分]"
         },
         {
           "title": "报道：OpenAI“失控智能体”入侵了Modal Labs的一名客户账户",
           "url": "https://wallstreetcn.com/livenews/3141207",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 07时04分]"
         },
         {
           "title": "OpenAI与Anthropic员工联名致信 呼吁美政府建立机制监控AI发展",
@@ -426,8 +463,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时00分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 07时04分]"
         }
       ]
     }
