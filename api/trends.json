@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T13:36:31.222998+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-07-30T16:17:31.724909+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -33,19 +33,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时11分 ~ 13时36分]"
+          "appearance_count": 12,
+          "time_info": "[01时11分 ~ 16时17分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
           "url": "https://www.douyin.com/hot/2589723",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时06分 ~ 13时36分]"
+          "appearance_count": 11,
+          "time_info": "[03时06分 ~ 16时17分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 16时17分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -104,18 +117,6 @@
           "time_info": "[05时56分 ~ 07时59分]"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 13时36分]"
-        },
-        {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -150,6 +151,17 @@
           "time_info": "[05时57分 ~ 06时57分]"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 16时17分]"
+        },
+        {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
           "url": "https://www.toutiao.com/trending/7667418781938679858/",
           "source": "今日头条",
@@ -174,15 +186,27 @@
           "time_info": "[06时57分 ~ 07时59分]"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
           "source": "凤凰网",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时36分]"
+          "time_info": "[13时36分 ~ 16时17分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 16时17分]"
         },
         {
           "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
@@ -218,15 +242,15 @@
           "time_info": "04时51分"
         },
         {
-          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
-          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
-          "source": "凤凰网",
+          "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
+          "url": "https://www.cls.cn/detail/2440817",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时36分"
+          "time_info": "16时17分"
         },
         {
           "title": "特朗普不骂沃什只骂委员会，美联储出现50年一遇的内部分裂",
@@ -238,17 +262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
@@ -364,7 +377,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -542,6 +555,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
+          "url": "https://www.cls.cn/detail/2440809",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
           "url": "https://flash.jin10.com/detail/20260730060759487800",
           "source": "金十数据",
@@ -655,8 +679,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 16时17分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
