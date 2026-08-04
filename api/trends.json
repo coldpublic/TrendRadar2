@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T20:57:54.574007+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-08-04T23:24:05.555379+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -20,6 +20,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 20时57分]"
+        },
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 23时24分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -156,19 +170,6 @@
           "time_info": "00时34分"
         },
         {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 20时57分]"
-        },
-        {
           "title": "特朗普威胁对伊朗采取“斩首”行动",
           "url": "https://www.douyin.com/hot/2596526",
           "source": "抖音",
@@ -205,6 +206,18 @@
           "time_info": "[12时09分 ~ 18时33分]"
         },
         {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 23时24分]"
+        },
+        {
           "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
           "url": "https://www.cls.cn/detail/2444679",
           "source": "财联社热门",
@@ -227,18 +240,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 15时35分]"
-        },
-        {
-          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
-          "url": "https://wallstreetcn.com/articles/3778597",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 20时57分]"
         },
         {
           "title": "美议员痛批特朗普行事反复无常",
@@ -393,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "美国总统特朗普：已请求参议员达琳·格雷厄姆参加8月11日的共和党特别初选，她已接受。",
+          "url": "https://flash.jin10.com/detail/20260804225055245800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "特朗普：应伊朗的要求与伊朗进行对话的，今明两天就会知晓谈判进展",
@@ -607,7 +619,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -618,8 +630,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时05分 ~ 20时57分]"
+          "appearance_count": 8,
+          "time_info": "[08时05分 ~ 23时24分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -712,6 +724,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 06时05分]"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         },
         {
           "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
@@ -903,6 +926,20 @@
           "time_info": "[02时47分 ~ 15时35分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 23时24分]"
+        },
+        {
           "title": "DeepSeek 斩杀线",
           "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
           "source": "百度热搜",
@@ -925,20 +962,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时34分 ~ 06时05分]"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            16,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 20时57分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -991,8 +1014,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 20时57分]"
+          "appearance_count": 4,
+          "time_info": "[18时33分 ~ 23时24分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -1054,11 +1077,12 @@
             13,
             17,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时34分 ~ 23时24分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
