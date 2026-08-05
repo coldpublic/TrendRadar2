@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T14:26:21.259368+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-08-05T17:33:29.746822+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 17时33分]"
         },
         {
           "title": "美国总统特朗普：事情似乎进展顺利，如果霍尔木兹海峡开放，汽油价格将会下降。",
@@ -70,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -147,7 +147,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -169,7 +169,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -287,7 +287,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -378,7 +378,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -434,9 +434,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
+          "url": "https://www.cls.cn/detail/2446161",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
@@ -551,8 +562,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 17时33分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -591,7 +602,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek斩杀了谁",
@@ -639,6 +650,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 11时57分]"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         }
       ]
     },
