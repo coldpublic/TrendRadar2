@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T15:51:21.637784+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-08-09T16:37:16.504740+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时17分 ~ 15时51分]"
+          "appearance_count": 12,
+          "time_info": "[09时17分 ~ 16时37分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -54,11 +54,12 @@
             15,
             18,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -83,11 +84,23 @@
             20,
             23,
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 16时37分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时00分 ~ 16时37分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -103,17 +116,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时31分 ~ 15时51分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时00分 ~ 15时51分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -132,11 +134,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 15时51分]"
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 16时37分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -188,8 +191,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -200,8 +203,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时00分 ~ 15时51分]"
+          "appearance_count": 8,
+          "time_info": "[13时00分 ~ 16时37分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -210,11 +213,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -234,11 +238,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时30分 ~ 15时51分]"
+          "appearance_count": 10,
+          "time_info": "[11时30分 ~ 16时37分]"
         }
       ]
     },
@@ -291,8 +296,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 15时51分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 16时37分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
