@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T10:14:02.705104+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-08-15T11:35:21.652075+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -39,6 +39,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 11时35分]"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时35分]"
         },
         {
           "title": "美国总统特朗普：经济表现好得令人难以置信。",
@@ -77,30 +114,6 @@
           "time_info": "[01时49分 ~ 02时47分]"
         },
         {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260815081700535800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时14分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 10时14分]"
-        },
-        {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
           "url": "https://www.zhihu.com/question/2070813507499643585",
           "source": "知乎",
@@ -110,6 +123,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时49分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时35分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -123,6 +149,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时18分 ~ 10时14分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 11时35分]"
         },
         {
           "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
@@ -139,15 +177,28 @@
         },
         {
           "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "url": "https://wallstreetcn.com/livenews/3149900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时35分]"
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
           "source": "金十数据",
           "ranks": [
-            6,
-            22
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时14分]"
+          "time_info": "[10时14分 ~ 11时35分]"
         },
         {
           "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
@@ -162,27 +213,16 @@
           "time_info": "[05时34分 ~ 06时18分]"
         },
         {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://wallstreetcn.com/livenews/3149900",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            16
+            11,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时14分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
+          "time_info": "[10时14分 ~ 11时35分]"
         },
         {
           "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
@@ -208,6 +248,17 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "市场消息：美国总统特朗普抵达马里兰州安德鲁斯联合基地。",
           "url": "https://flash.jin10.com/detail/20260815011448541800",
           "source": "金十数据",
@@ -217,28 +268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
         },
         {
           "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
@@ -310,7 +339,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
@@ -320,8 +349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 10时14分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 11时35分]"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -332,8 +361,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 10时14分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 11时35分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -393,6 +422,17 @@
           "time_info": "01时49分"
         },
         {
+          "title": "美股三大指数全线收跌",
+          "url": "https://www.toutiao.com/trending/7674037560066441266/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时35分"
+        },
+        {
           "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
           "url": "https://wallstreetcn.com/livenews/3149816",
           "source": "华尔街见闻-快讯",
@@ -419,11 +459,12 @@
             18,
             7,
             11,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时49分 ~ 10时14分]"
+          "appearance_count": 9,
+          "time_info": "[01时49分 ~ 11时35分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -431,11 +472,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时49分 ~ 10时14分]"
+          "appearance_count": 9,
+          "time_info": "[01时49分 ~ 11时35分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -454,11 +496,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 11时35分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -494,22 +537,24 @@
           "source": "金十数据",
           "ranks": [
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 10时14分]"
+          "appearance_count": 3,
+          "time_info": "[08时58分 ~ 11时35分]"
         },
         {
           "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
           "url": "https://flash.jin10.com/detail/20260815090110907800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时14分 ~ 11时35分]"
         }
       ]
     },
